@@ -4,10 +4,9 @@
 
 <p>Programmers can use this application to set remainders of new programming languages which they want to learn.</p>
 
-<p>GUI Demo</p>
+<h2>GUI Demo</h2>
 <img src="src/images/LookupGUI.png" />
 <hr>
 
-<p>Example Demo</p>
+<h2>Example Demo</h2>
 <img src="src/images/ProcessingGUI.png" />
-<hr>
